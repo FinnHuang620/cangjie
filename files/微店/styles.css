@@ -4883,10 +4883,9 @@
 #u247_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:10px;
+  width:105px;
   word-wrap:break-word;
 }
 #u248_img {
@@ -8163,7 +8162,7 @@
   border-width:0px;
   position:absolute;
   left:121px;
-  top:499px;
+  top:549px;
   width:259px;
   height:20px;
   color:#CCCCCC;
@@ -8178,8 +8177,8 @@
 }
 #u366 {
   position:absolute;
-  left:92px;
-  top:358px;
+  left:109px;
+  top:317px;
   visibility:hidden;
 }
 #u366_state0 {
@@ -11927,8 +11926,8 @@
 }
 #u524 {
   position:absolute;
-  left:66px;
-  top:230px;
+  left:86px;
+  top:254px;
   visibility:hidden;
 }
 #u524_state0 {
