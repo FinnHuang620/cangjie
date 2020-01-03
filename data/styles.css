@@ -215,6 +215,8 @@
 }
 .line {
 }
+.arrow {
+}
 .shape {
 }
 .connector {
@@ -227,6 +229,12 @@
   color:#000000;
 }
 .menu_item {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 ._文本段落1 {
   text-align:left;
