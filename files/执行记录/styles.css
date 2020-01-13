@@ -3188,3 +3188,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2621_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:177px;
+  height:32px;
+}
+#u2621 {
+  border-width:0px;
+  position:absolute;
+  left:1636px;
+  top:328px;
+  width:177px;
+  height:32px;
+  font-size:12px;
+  color:#FF3399;
+}
+#u2621_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:3px;
+  width:173px;
+  word-wrap:break-word;
+}
